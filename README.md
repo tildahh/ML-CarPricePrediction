@@ -1,16 +1,17 @@
 # ML-CarPricePrediction
+![Kurt](https://github.com/tildahh/ML-CarPricePrediction/blob/main/images/kurt.jpeg)
+This project explores a dataset containing details on over 426,000 used cars with the goal of identifying factors that significantly impact car prices. 
 
-This project explores a dataset containing details on over 426,000 used cars with the goal of identifying factors that significantly impact car prices. Utilizing the CRISP-DM methodology, this analysis aims to equip used car dealerships with data-driven insights to optimize their inventories based on consumer preferences and market trends.
-
-[Link to notebook](https://github.com/tildahh/ML-CarPricePrediction/blob/main/prompt_II.ipynb)
+Utilizing the CRISP-DM methodology, this analysis aims to equip used car dealerships with data-driven insights to optimize their inventories based on consumer preferences and market trends.
+![CrispDM](https://github.com/tildahh/ML-CarPricePrediction/blob/main/images/crisp.png)
 
 ## Project Results
 Our analysis revealed several key factors that influence used car prices:
 
-* Vehicle Age: Newer vehicles tend to have higher prices.
-* Mileage: Lower mileage correlates with higher pricing.
-* Brand and Model: Some brands and models are more favorable in retaining value.
-* Condition: Cars in better condition command higher prices.
+* Newer vehicles tend to have higher prices.
+* Lower mileage correlates with higher pricing.
+* Some brands and models are more favorable in retaining value.
+* Cars in better condition command higher prices.
 
 ## Visualizations
 To support our findings, we have included a series of visualizations that illustrate the key factors affecting used car prices:
@@ -34,3 +35,5 @@ A scatter plot that showcases the relationship between the car’s price and its
 
 ## Conclusion
 This project provides valuable insights into the used car market, assisting dealers in making informed decisions to optimize their inventory and improve profitability. The analysis demonstrates the power of data-driven decision-making in a competitive market.
+
+[Link to notebook](https://github.com/tildahh/ML-CarPricePrediction/blob/main/prompt_II.ipynb)
