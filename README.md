@@ -1,9 +1,11 @@
 # ML-CarPricePrediction
-This project explores a dataset containing details on over 426,000 used cars with the goal of identifying factors that significantly impact car prices. By leveraging machine learning algorithms, we aim to predict car prices based on key features such as mileage, year, and brand.
 ![Kurt](https://github.com/tildahh/ML-CarPricePrediction/blob/main/images/kurt.jpeg)
+
+This project explores a dataset containing details on over 426,000 used cars with the goal of identifying factors that significantly impact car prices. By leveraging machine learning algorithms, we aim to predict car prices based on key features such as mileage, year, and brand.
 
 ## CRISP-DM Framework 
 Utilizing the CRISP-DM methodology, this analysis aims to equip used car dealerships with data-driven insights to optimize their inventories based on consumer preferences and market trends.
+
 ![CrispDM](https://github.com/tildahh/ML-CarPricePrediction/blob/main/images/crisp.png)
 
 ## Project Results
@@ -18,7 +20,7 @@ Our analysis revealed several key factors that influence used car prices:
 
 ## Visualizations
 To support our findings, we have included a series of visualizations that illustrate the key factors affecting used car prices:
-1. **Number of Cars by Make in dataset**:
+1. **Number of Cars by Make in Dataset**:
 ![Car_Manufacturers](https://github.com/tildahh/ML-CarPricePrediction/blob/main/images/cars_by_make.png)
 
 2.  **Boxplot - Car Manufacturer vs. Price**:
